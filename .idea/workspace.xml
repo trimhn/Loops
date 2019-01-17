@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f80f0aef-90a5-4876-b6f4-d1fbd80f946f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
-    </list>
+    <list default="true" id="f80f0aef-90a5-4876-b6f4-d1fbd80f946f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +88,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FizzBuzz.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -239,12 +241,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547734566979</updated>
-      <workItem from="1547734572223" duration="16808000" />
+      <workItem from="1547734572223" duration="17092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16808000" />
+    <option name="totallyTimeSpent" value="17092000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -257,7 +259,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" sideWeight="0.50080776" side_tool="true" weight="0.25" />
@@ -368,7 +369,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
